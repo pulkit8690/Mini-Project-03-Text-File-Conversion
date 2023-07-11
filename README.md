@@ -1,6 +1,7 @@
 # Text File Conversion
 
 This mini project focuses on converting a text file from one format to another using Python. Specifically, it converts a CSV (Comma-Separated Values) file to a JSON (JavaScript Object Notation) file.
+![Conversion Process](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLH_oRpCQSIM1PmOFp10xA9Zk0ZVit3Bezhg&usqp=CAU)
 
 ## Conversion Process
 
@@ -18,3 +19,4 @@ The project includes a function `csv_to_json` that performs the conversion. It t
    name,age,email
    John,25,john@example.com
    Emily,30,emily@example.com'
+
